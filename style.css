@@ -1,0 +1,16 @@
+body {
+  background-color: #F1F2D5;
+}
+
+* {
+  color: #0339A6;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2 {
+  color: #F2274C;
+}
+
+p, ol, ul{
+  font-size: 1.2em;
+}
